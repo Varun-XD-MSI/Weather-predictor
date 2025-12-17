@@ -58,10 +58,13 @@ Use following commands
 ## ▶️ How to Run
 
 Run the following commands:
+## Do them Step by Step
 
 ```bash
+
 pip install requests pillow
 git clone https://github.com/Varun-XD-MSI/Weather-Predictor.git
+# Add API key here and then follow next steps
 cd Weather-Predictor
 python main.py
 
